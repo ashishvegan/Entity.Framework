@@ -1,0 +1,5 @@
+D:\OneDrive - NewVision Software Pvt.Ltd\Codes\Entity.Framework\BasicTR\obj\Debug\net7.0\BasicTR.csproj.AssemblyReference.cache
+D:\OneDrive - NewVision Software Pvt.Ltd\Codes\Entity.Framework\BasicTR\obj\Debug\net7.0\BasicTR.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - NewVision Software Pvt.Ltd\Codes\Entity.Framework\BasicTR\obj\Debug\net7.0\BasicTR.AssemblyInfoInputs.cache
+D:\OneDrive - NewVision Software Pvt.Ltd\Codes\Entity.Framework\BasicTR\obj\Debug\net7.0\BasicTR.AssemblyInfo.cs
+D:\OneDrive - NewVision Software Pvt.Ltd\Codes\Entity.Framework\BasicTR\obj\Debug\net7.0\BasicTR.csproj.CoreCompileInputs.cache
